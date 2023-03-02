@@ -1,3 +1,3 @@
 - 👋 Vinícius Tavares
-- 🏦 Sistemas da informação 
+- 🏦 Ciência da Computação
 
